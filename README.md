@@ -36,7 +36,7 @@ The game has a total of 15 questions. Once you have answered all of the question
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube](https://youtu.be/2sCmWmOGqMY).
+Click the images above or watch the demo video on [YouTube]().
 
 
 ## Tech Stack
