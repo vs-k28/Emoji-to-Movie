@@ -25,7 +25,7 @@ The game has a total of 15 questions. Once you have answered all of the question
   - Select the language you want to play in.
   - Click on "Go" to load the game.
   - Watch the emojis and guess the movie title.
-  - Click on the answer that you think is correct then     submit the answer.
+  - Click on the answer that you think is correct then submit the answer.
   - Repeat steps 3-4 until you have answered all of the questions.
   - Your final score will be displayed at the end of the game.
   
@@ -36,7 +36,7 @@ The game has a total of 15 questions. Once you have answered all of the question
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube]().
+Click the images above or watch the demo video on [YouTube](https://youtu.be/8iAmm52f8MY).
 
 
 ## Tech Stack
